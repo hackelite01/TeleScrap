@@ -20,7 +20,7 @@ def banner():
     f = pyfiglet.Figlet(font='slant')
     banner = f.renderText('TeleScrap')
     print(f'{random.choice(colors)}{banner}{n}')
-    print(r+'  Version: 2.5 | Author: Cryptonian'+n+'\n')
+    print(r+'  Version: 2.5 | Author: HackElite (Mayank)'+n+'\n')
 #print('Author: github.com/hackelite01\n')
 #sleep(4)
 
